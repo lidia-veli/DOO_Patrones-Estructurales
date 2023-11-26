@@ -1,6 +1,6 @@
 from typing import Dict
-from pizzas import BuilderPizza, Director, ConcreteBuilder_PizzaPersonalizada
-from menu import Component, Entrante_Component, Pizza_Component, Bebida_Component, Postre_Component, CompositeMenu
+from .pizzas import Director, ConcreteBuilder_PizzaPersonalizada
+from menu import Entrante_Component, Pizza_Component, Bebida_Component, Postre_Component, CompositeMenu
 import csv
 
 class Pedido:

@@ -1,5 +1,5 @@
 import csv
-from pizzas import Director, ConstructorPizzaMargarita, ConstructorPizzaBarbacoa, ConstructorPizzaQuesos
+from .pizzas import Director, ConstructorPizzaMargarita, ConstructorPizzaBarbacoa, ConstructorPizzaQuesos
 from abc import ABC, abstractmethod
 
 
