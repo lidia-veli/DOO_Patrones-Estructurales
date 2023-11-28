@@ -1,1 +1,2 @@
-# DOO_Patrones-Estructurales
+link repositorio: https://github.com/lidia-veli/DOO_Patrones-Estructurales
+# Entrega Patrones Estructurales
